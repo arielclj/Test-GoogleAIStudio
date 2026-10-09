@@ -1,0 +1,7 @@
+{
+  "name": "IronTrack - Gym Workout Tracker",
+  "description": "Fast, mobile-first workout tracker with live set counter, rest timer, exercise library, routine templates, and local progression history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
